@@ -28,7 +28,7 @@ To isolate the bottleneck, I hypothesized that operational rushing was driving t
 I mapped the daily quality fallout using a dynamic Six Sigma **p-chart**. The control limits (UCL/LCL) were calculated using the standard binomial approximation for proportion data to track ±3 Sigma deviations. 
 * *Note that the process exhibited zero out-of-control points, proving the 4.8% defect rate was a chronic, baked-in operational failure rather than a sporadic anomaly.*
 
-![Six Sigma p-Chart](result/six sigma p chart.png)
+![Six Sigma p-Chart](result/six sigma p-chart.png)
 
 ### 4. SOP Optimization & Financial Projection
 I formulated a 3-step Standard Operating Procedure (SOP) focusing on **zonal inventory routing** and **paced batching** to eliminate the 25-second rushing bottleneck in Shift B.
