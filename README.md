@@ -38,7 +38,7 @@ An SOP is ineffective if operators revert to old habits to clear queues. To enfo
 * **Shift-Level Visibility:** The dashboard tracks the daily defect rate against the established Upper Control Limit (UCL). Floor managers utilize interactive slicers to instantly isolate Shift A vs. Shift B performance, permanently locking in the financial savings through continuous monitoring.
 
 
-`![Power BI Dashboard](assets/power_bi_dashboard.gif)`
+`![Power BI Dashboard](result/power_bi_dashboard.gif)`
 
 ---
 **Note on Repository Structure:**
